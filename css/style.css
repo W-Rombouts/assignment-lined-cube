@@ -1,5 +1,5 @@
 .cube{
-    background-image: url(/assets/grid.svg);
+    background-image: url(../assets/grid.svg);
 
     stroke-width: 5;
     fill: none;
